@@ -1,5 +1,5 @@
 _repo: Stevenson-at-Manasquan_55714
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Dickie, Francis Joseph
@@ -17,12 +17,17 @@ contributor:
     deathdate: 1896
     gutenberg_agent_id: '45317'
     url: http://www.gutenberg.org/2009/agents/45317
+covers:
+- cover_type: archival
+  image_path: 55714-h/images/cover.jpg
 creator:
   author:
     agent_name: Eaton, Charlotte
     gutenberg_agent_id: '45285'
     url: http://www.gutenberg.org/2009/agents/45285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55714#Stevenson-at-Manasquan
 gutenberg_issued: '2017-10-09'
 gutenberg_type: Text
 identifiers:

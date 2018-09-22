@@ -1,0 +1,43 @@
+_repo: Stevenson-at-Manasquan_55714
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Dickie, Francis Joseph
+    birthdate: 1890
+    gutenberg_agent_id: '48468'
+    url: http://www.gutenberg.org/2009/agents/48468
+  - agent_name: Seymour, George Steele
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '48469'
+    url: http://www.gutenberg.org/2009/agents/48469
+  illustrator:
+    agent_name: Eaton, Wyatt
+    birthdate: 1849
+    deathdate: 1896
+    gutenberg_agent_id: '45317'
+    url: http://www.gutenberg.org/2009/agents/45317
+creator:
+  author:
+    agent_name: Eaton, Charlotte
+    gutenberg_agent_id: '45285'
+    url: http://www.gutenberg.org/2009/agents/45285
+description: ''
+gutenberg_issued: '2017-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55714'
+  lccn: '21019877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Travel -- New Jersey -- Manasquan'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Characters -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Manasquan (N.J.) -- History'
+- !lcsh 'Casco (Yacht)'
+- GITenberg
+title: Stevenson at Manasquan
+url: http://www.gutenberg.org/ebooks/55714
